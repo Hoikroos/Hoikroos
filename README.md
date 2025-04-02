@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Xin chào, tôi là Võ Đình Hội!<br>🛠️ Về tôi  <br>🎯 Định hướng: Trở thành chuyên gia kiểm thử phần mềm (Manual & Automation Testing)  <br>🖥️ Công nghệ quan tâm: Java, Spring Boot, Hibernate, Selenium, JUnit, TestNG, DevOps  <br>🎓 Đang học về cơ sở dữ liệu, bảo mật hệ thống và kiểm thử phần mềm  <br>🌱 Hiện tại đang phát triển website bằng Eclipse, Spring Boot và Thymeleaf  
+👋 Xin chào, tôi là Võ Đình Hội!<br>🛠️ Về tôi  <br>🎯 Định hướng: Trở thành lập trình viên Back-End <br>🖥️ Công nghệ quan tâm: Java, Spring Boot, Hibernate, Selenium, JUnit, TestNG, DevOps  <br>🎓 Đang học về cơ sở dữ liệu, bảo mật hệ thống và kiểm thử phần mềm  <br>🌱 Hiện tại đang phát triển website bằng Eclipse, Spring Boot và Thymeleaf  
 
 
 ## 🌐 Socials:
